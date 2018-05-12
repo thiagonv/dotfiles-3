@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Cubas
+
+X-KDE-PluginInfo-Author=KDE Visual Design Group
+X-KDE-PluginInfo-Email=kde-artists@kde.org
+X-KDE-PluginInfo-Name=cubas
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://plasma.kde.org
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=Montana
+defaultFileSuffix=jpg
+defaultWidth=1366
+defaultHeight=768
