@@ -98,7 +98,8 @@ MouseArea {
     Row {
         id: pagerItemGrid
 
-        property var icons: ['internet', 'text-editor', 'gksu', 'exec']
+        property var icons: ['\uf1a0', '\uf126', '\uf1bc', '\uf120']
+        property var labels: ['Web', 'Code', 'Media', 'Terminal']
 
         Repeater {
             id: repeater

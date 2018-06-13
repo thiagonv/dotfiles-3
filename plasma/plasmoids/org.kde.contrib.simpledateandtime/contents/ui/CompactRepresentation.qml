@@ -22,7 +22,7 @@ Item
 
     Text {
         id:  date_label
-        text: Qt.formatDateTime( time_src.data.Local.DateTime, "dddd, MMM dd · hh:mm" )
+        text: Qt.formatDateTime( time_src.data.Local.DateTime, "dddd, dd 'd'e MMMM · hh:mm" )
         anchors {
           left: parent.left
           leftMargin: 6

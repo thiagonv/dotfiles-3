@@ -6,7 +6,7 @@ import org.kde.plasma.components 2.0 as PlasmaComponents
 MouseArea {
     id: selector
 
-    width: height + 4
+    width: label.implicitWidth + 12
     height: root.height
 
     property bool current
@@ -28,11 +28,12 @@ MouseArea {
       y: parent.height - 2
     }
 
-    PlasmaCore.IconItem {
-      source: pagerItemGrid.icons[index]
+    PlasmaComponents.Label {
+      id: label
+      text: active ? '\uf111' : '\uf10c'
+      font.pixelSize: 8
       anchors {
-        fill: parent
-        margins: 5
+        centerIn: parent
       }
     }
 }

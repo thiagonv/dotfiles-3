@@ -1,5 +1,5 @@
 [Background]
-Color=36,34,32
+Color=40,49,59
 
 [BackgroundFaint]
 Color=44,44,44
@@ -89,6 +89,7 @@ Color=220,220,204
 Color=220,220,204
 
 [General]
+Blur=false
 Description=Dark Pastels
 Opacity=1
 Wallpaper=

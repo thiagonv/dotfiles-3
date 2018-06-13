@@ -95,9 +95,9 @@ Item {
     id: shadow
     anchors.fill: icon
     source: icon
-    radius: 24
-    samples: 49
-    color: "#88000000"
+    radius: 16
+    samples: 33
+    color: "#50000000"
   }
 
   Text {

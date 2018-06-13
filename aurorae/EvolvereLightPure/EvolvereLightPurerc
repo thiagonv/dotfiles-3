@@ -29,9 +29,9 @@ toolBarFont=Open Sans,10,-1,5,50,0,0,0,0,0
 widgetStyle=kvantum
 
 [Layout]
-BorderBottom=1
-BorderLeft=1
-BorderRight=1
+BorderBottom=0
+BorderLeft=0
+BorderRight=0
 BorderTop=5
 ButtonHeight=22
 ButtonMarginTop=0
@@ -47,7 +47,7 @@ TitleBorderLeft=10
 TitleBorderRight=10
 TitleEdgeBottom=5
 TitleEdgeBottomMaximized=5
-TitleEdgeLeft=5
+TitleEdgeLeft=15
 TitleEdgeLeftMaximized=5
 TitleEdgeRight=5
 TitleEdgeRightMaximized=5

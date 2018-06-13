@@ -244,3 +244,4 @@ single_top_toolbar=false
 tint_on_mouseover=0
 transparent_pcmanfm_sidepane=true
 transparent_pcmanfm_view=true
+middle_click_scroll=false

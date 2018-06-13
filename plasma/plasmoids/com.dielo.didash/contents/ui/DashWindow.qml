@@ -137,7 +137,7 @@ PlasmaCore.Dialog {
 
     Rectangle {
       id: opaqueBackground
-      color: theme.backgroundColor
+      color: theme.viewBackgroundColor
       anchors.fill: parent
     }
 
